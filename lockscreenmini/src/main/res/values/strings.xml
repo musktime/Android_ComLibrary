@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LockScreenMini</string>
+    <string name="default_ad_action">下载</string>
+
+    <string name="charging_text1">充电保护中</string>
+
+    <string name="charging_text2">已安全充电</string>
+</resources>

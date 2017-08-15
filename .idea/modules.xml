@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComLibrary.iml" filepath="$PROJECT_DIR$/ComLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fuzhu/Fuzhu.iml" filepath="$PROJECT_DIR$/Fuzhu/Fuzhu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lockscreenmini/lockscreenmini.iml" filepath="$PROJECT_DIR$/lockscreenmini/lockscreenmini.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="menu_normal">#00000000</color>
+    <color name="menu_pressed">#EE000000</color>
+    <color name="ad_action_normal">#66CCFF</color>
+    <color name="ad_action_pressed">#199ED8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pop_text_color">#696969</color>
+    <color name="clear_normal">#ffffff</color>
+    <color name="clear_pressed">#EEEEEE</color>
+    <color name="power_tip_color">#41B51E</color>
+    
+
+</resources>

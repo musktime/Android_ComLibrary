@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeAllMask"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagReportViewIds"
+    android:canRetrieveWindowContent="true"
+    android:description="@string/accessibility_service_description"
+    android:notificationTimeout="100" />
+<!-- 设置响应事件的类型，typeAllMask当然就是响应所有类型的事件了。当然还有单击、长按、滑动等（多个值由“|”分隔）（可在运行时修改）。 -->
+<!-- 设置回馈给用户的方式，有语音播出和振动（多个值由“|”分隔）（可 -->
+<!-- 相同类型的两个事件之间的最小时间发送到该服务（可在运行时修改）。 -->
+<!-- 就是设置里辅助功能项的备注说明（不可在运行时修改）。 -->
+<!-- 就是设置里辅助功能项的备注说明（不可在运行时修改）。 -->
+<!-- 就是设置里辅助功能项的备注说明（不可在运行时修改）。 -->

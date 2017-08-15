@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fuzhu</string>
+    <string name="accessibility_service_description">该服务为验证系统辅助功能的作用</string>
+</resources>
