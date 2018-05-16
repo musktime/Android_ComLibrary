@@ -128,9 +128,7 @@ public class AppDownloadUtils {
                         }
 
                     }
-                    CLog.i("debug", "download process : " + msg.obj + "%");
                     break;
-
                 case 5:
                     if (downloadListener != null) {
                         downloadListener.onDownloaded(downloadurl);

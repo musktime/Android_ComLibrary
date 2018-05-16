@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    //circle_text_color
+    <color name="circle_text_color">#FF4081</color>
+    <color name="circle_inner_color">#3F51B5</color>
+    <color name="circle_color">#312115</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white2">#E6E6E6</color>
+    <color name="colorGreen">#0DD0A5</color>
 </resources>

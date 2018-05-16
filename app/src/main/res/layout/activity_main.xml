@@ -2,17 +2,23 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:tc="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.musk.lib.MainActivity">
+    tools:context="com.musk.test.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
+    <com.musk.lib.ui.ProgressView
+        android:id="@+id/tasks_view"
+        android:layout_width="223dp"
+        android:layout_height="223dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
+        app:layout_constraintTop_toTopOf="parent"
+        tc:circleColor="@color/white"
+        tc:radius="90dip"
+        tc:ringBgColor="@color/white2"
+        tc:ringColor="@color/colorGreen"
+        tc:strokeWidth="3dip"
+        tc:textSize="24sp"/>
 </android.support.constraint.ConstraintLayout>

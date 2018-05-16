@@ -190,7 +190,7 @@
                     android:layout_alignParentLeft="true"
                     android:layout_centerVertical="true"
                     android:contentDescription="@string/app_name"
-                    android:src="@drawable/star" />
+                    android:src="@drawable/sliding" />
 
                 <ImageView
                     android:id="@+id/star2"
@@ -199,7 +199,7 @@
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@+id/star1"
                     android:contentDescription="@string/app_name"
-                    android:src="@drawable/star" />
+                    android:src="@drawable/sliding" />
 
                 <ImageView
                     android:id="@+id/star3"
@@ -208,7 +208,7 @@
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@+id/star2"
                     android:contentDescription="@string/app_name"
-                    android:src="@drawable/star" />
+                    android:src="@drawable/sliding" />
 
                 <ImageView
                     android:id="@+id/star4"
@@ -217,7 +217,7 @@
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@+id/star3"
                     android:contentDescription="@string/app_name"
-                    android:src="@drawable/star" />
+                    android:src="@drawable/sliding" />
 
                 <ImageView
                     android:id="@+id/star5"
@@ -226,7 +226,7 @@
                     android:layout_centerVertical="true"
                     android:layout_toRightOf="@+id/star4"
                     android:contentDescription="@string/app_name"
-                    android:src="@drawable/star" />
+                    android:src="@drawable/sliding" />
 
                 <Button
                     android:id="@+id/ad_action"

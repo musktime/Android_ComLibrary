@@ -69,7 +69,6 @@ public class FileDownloader {
             @Override
             public void run() {
                 String path = downloadurl;
-                CLog.i("debug", "downloadurl==" + downloadurl);
                 if (!new File(Constants.DOWNLOAD_PATH).exists()) {
                     new File(Constants.DOWNLOAD_PATH).mkdirs();
                 }

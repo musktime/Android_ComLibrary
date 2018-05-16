@@ -1,15 +1,13 @@
 package com.musk.business.filedown;
 
 import java.util.ArrayList;
-
-import com.tools.game.utils.ImageDownLoader;
-
 import android.app.Service;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.IBinder;
 import android.text.TextUtils;
 import android.widget.Toast;
+import com.musk.business.imageload.ImageDownLoader;
 
 public class DownloadService extends Service {
 	public static ArrayList<String> downloadUrls = new ArrayList<String>();
